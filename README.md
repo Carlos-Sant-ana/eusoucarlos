@@ -19,7 +19,7 @@
 ## My Repos:
 
 This is all the projects that i build until now in my account: 
-* <a href="https://github.com/Carlos-Sant-ana/Certificates" target="blank">eusoucarlos</a>
+* <a href="https://github.com/Carlos-Sant-ana/Certificates" target="blank">Certificates</a>
 * <a href="https://github.com/Carlos-Sant-ana/eusoucarlos/tree/main" target="blank">eusoucarlos</a>
 * <a href="https://github.com/Carlos-Sant-ana/SimpleProjects" target="blank">SimpleProjects</a>
 
